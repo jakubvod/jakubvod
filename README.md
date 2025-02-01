@@ -1,4 +1,6 @@
 ## Hi there 👋
+### - 💡 My name is Jacob, a Czech student learning how to code.
+### - 📫 How to reach me: vodicka.microsoft@seznam.cz
 
 <!--
 **jakubvod/jakubvod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
